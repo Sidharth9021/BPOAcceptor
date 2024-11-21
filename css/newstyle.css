@@ -1777,7 +1777,7 @@ footer .foot-text .terms a {
 
 @media (min-width: 720px) {
   iframe {
-    height: 641px;
+    height: 545px;
   }
 }
 @media (min-width: 340px) {
@@ -1788,6 +1788,6 @@ footer .foot-text .terms a {
 
 @media (min-width: 720px) {
   .location {
-    margin-top: 160px;
+    margin-top: 80px;
   }
 }
